@@ -6,6 +6,7 @@
   <li>I love to code.</li>
   
 </ul>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,6 +14,9 @@
 
 
 <h3>Languages and Tools:</h3>
+<div style="display: flex">
+  <div<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='50px'></div>
+ </div>
 
 <!---
 ahmedjyusuf/ahmedjyusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
