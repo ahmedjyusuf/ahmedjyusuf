@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I’m @ahmedjyusuf</h1>
 <hr>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center" class="d-none">A passionate fullstack developer</h3>
 <a href='#'>html</a>
 <ul>
-  <li>I love to code</li>
+  <li>I love to code.</li>
+  
 </ul>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+<h3>Languages and Tools:</h3>
 
 <!---
 ahmedjyusuf/ahmedjyusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
