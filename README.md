@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m @ahmedjyusuf</h1>
 <hr>
-<h3 align="center">A passionate fullstack <span><img src="https://w7.pngwing.com/pngs/385/735/png-transparent-bracket-symbol-parenthesis-computer-icons-bracket-miscellaneous-angle-monochrome.png" width="50px"></span> developer</h2>
+<h3 align="center">A passionate fullstack <span><img src="https://w7.pngwing.com/pngs/385/735/png-transparent-bracket-symbol-parenthesis-computer-icons-bracket-miscellaneous-angle-monochrome.png" width="15px"></span> developer</h2>
 <a href='#'>html</a>
 <ul>
   <li></li>
