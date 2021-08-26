@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m @ahmedjyusuf</h1>
 <hr>
-<h3 align="center" class="d-none">A passionate fullstack developer</h3>
+<h3 align="center" class="d-flex">A passionate fullstack developer</h3>
 <a href='#'>html</a>
 <ul>
   <li>I love to code.</li>
