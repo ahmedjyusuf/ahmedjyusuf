@@ -15,7 +15,7 @@
 
 <h3>Languages and Tools:</h3>
 <div style="display: flex">
-  <div<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='50px'></div>
+  <div<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='50px'>Hello</div>
  </div>
 
 <!---
